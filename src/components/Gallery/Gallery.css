@@ -1,0 +1,22 @@
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.view {
+    padding: 5px;
+    cursor: pointer;
+    transition: .2s;
+    
+}
+
+
+.grid {
+    padding-top: 10em;
+}
+
+.view:hover {
+    transform: scale(1.8);
+    background-color: #000000;
+}

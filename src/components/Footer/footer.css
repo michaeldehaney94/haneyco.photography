@@ -1,0 +1,16 @@
+p {
+    font-size: 15px;
+}
+
+span {
+    font-size: small;
+}
+
+
+footer {
+    display: grid;
+    grid-template-columns: 100px 120px;
+    justify-content: right;
+}
+
+

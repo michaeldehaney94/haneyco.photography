@@ -1,0 +1,15 @@
+.intro {
+    display: grid;
+    grid-template-columns: 550px 500px;
+    /* grid-column: 2 /span 2; */
+    margin-left: 80px;
+    padding-bottom: 10em;
+    
+}
+
+p {
+    font-weight: bold;
+    font-size: 1.2em;
+
+} 
+
